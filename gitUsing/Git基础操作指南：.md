@@ -17,10 +17,11 @@
 2. git add filename
 	1. filename 是指你要添加的文件名字，带后缀！
 	2. 如果是某一文件夹下的所有文件，    .\文件夹名字\*.*
+	3. ps:可以用git status查看当前保存了哪些文件的快照
 3. git commit -m (msg)
 	1. msg是代表这次提交到本地库的备注
 	2. commit的作用是把你之前add进去的文件塞到本地仓库
-	3. 注意，commit之后add的暂存区会清空
+	3. 注意，commit之后add的暂存区会清空![[Pasted image 20241108222040.png]]
 4. git push (url) (branch)
 	1. 这个url就是前面让你复制的url！记得要带分支名字，比如master
 5. git branch的操作
