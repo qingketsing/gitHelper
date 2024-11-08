@@ -24,6 +24,7 @@
 	3. 注意，commit之后add的暂存区会清空![[Pasted image 20241108222040.png]]
 4. git push (url) (branch)
 	1. 这个url就是前面让你复制的url！记得要带分支名字，比如master
+	2. ![[Pasted image 20241108222220.png]]
 5. git branch的操作
 	1. 这个操作有点复杂，请详见[Git 分支管理 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-branch.html)
 	
