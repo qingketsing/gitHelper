@@ -27,6 +27,8 @@
 	2. ![[Pasted image 20241108222220.png]]
 5. git pull url:
 	1. 用来拉取你要下载的文件夹，顾名思义，但是需要先init才能拉取！
-	2. 所谓的拉取就是下载下来（）
+	2. 注意！这个url是你要下载的那些文件的url，不是你建立的仓库的url！
+	3. 具体怎么获得url，打开别人发给你的仓库地址，然后打开，按照原来找url的方法找到这个仓库的url，然后就能拉取了！
+	4. 所谓的拉取就是下载下来（）
 6. git branch的操作
 	1. 这个操作有点复杂，请详见[Git 分支管理 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-branch.html)
