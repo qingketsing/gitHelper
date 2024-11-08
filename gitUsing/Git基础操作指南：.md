@@ -23,12 +23,13 @@
 	2. commit的作用是把你之前add进去的文件塞到本地仓库
 	3. 注意，commit之后add的暂存区会清空![[Pasted image 20241108222040.png]]
 4. git push (url) (branch)
-	1. 这个url就是前面让你复制的url！记得要带分支名字，比如master
-	2. ![[Pasted image 20241108222220.png]]
-5. git pull url:
+	1. 这个操作就是把本地的commit的文件全部塞进你的远程仓库里
+	2. 这个url就是前面让你复制的url！记得要带分支名字，比如master
+	3. ![[Pasted image 20241108222220.png]]
+6. git pull url:
 	1. 用来拉取你要下载的文件夹，顾名思义，但是需要先init才能拉取！
 	2. 注意！这个url是你要下载的那些文件的url，不是你建立的仓库的url！
 	3. 具体怎么获得url，打开别人发给你的仓库地址，然后打开，按照原来找url的方法找到这个仓库的url，然后就能拉取了！
 	4. 所谓的拉取就是下载下来（）
-6. git branch的操作
+7. git branch的操作
 	1. 这个操作有点复杂，请详见[Git 分支管理 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-branch.html)
